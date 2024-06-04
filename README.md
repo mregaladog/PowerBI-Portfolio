@@ -26,11 +26,14 @@ I am a dedicated data enthusiast with a robust background in Power BI, driven by
 ---
 
 ---
-## [Project 1: Supplier Quality Dashboard](https://githubcommregaladog)
+## Project 1: Supplier Quality Dashboard
 
 This industry-specific sample dashboard and accompanying report delve into a common supply chain challenge: supplier quality analysis. The analysis centers around two key performance indicators (KPIs): total defects and total downtime resulting from these defects. By examining these metrics, stakeholders can gain valuable insights into the root causes of quality issues and identify opportunities for process improvements, ultimately driving increased efficiency and reduced costs within the supply chain.
 
-## Preview
+### [Preview](https://app.powerbi.com/groups/me/reports/34b42bd9-5233-4b40-865b-f86be473c558/463d07ea8ab400c7e373?experience=power-bi)
+
+
+
 
 
 ![Screen Recording 2024-06-02 at 11 16 38 PM](https://github.com/mregaladog/PowerBI-Portfolio/assets/171528893/b77c41a5-b70e-4696-92ec-20813bcda0ae)
