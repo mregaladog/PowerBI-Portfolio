@@ -45,6 +45,22 @@ This industry-specific sample dashboard and accompanying report delve into a com
 
 
 
+## Project 2: Sales Report Overview Dashboard
+
+This comprehensive nature of the Store Sales built-in sample report and semantic model makes it a powerful tool for retail businesses. By leveraging this data-rich resource, organizations can gain a deeper understanding of their sales performance, identify areas for improvement, and make data-driven decisions to enhance overall business performance and profitability. The semantic model underlying the report adds an extra layer of depth to the analysis. By establishing relationships between various data points, such as store locations, product categories, and sales figures, the model enables more sophisticated queries and insights. This can help businesses uncover hidden patterns, identify cross-selling opportunities, and make more informed strategic decisions.
+
+
+### [Preview](https://app.powerbi.com/groups/me/reports/b3b9611e-987a-4603-9056-4d2388d442f0/3f1e3de7355308ae99b8?experience=power-bi)
+
+![Sales report overview](https://github.com/mregaladog/PowerBI-Portfolio/assets/171528893/2b3595bb-a518-4b9f-aad1-2f3379c7f2ad)
+
+
+
+
+
+
+
+
 ## Contact Information
 
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email or connect with me on LinkedIn at [Misael Regalado](https://www.linkedin.com/in/mregalado).
