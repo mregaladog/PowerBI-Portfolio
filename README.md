@@ -57,6 +57,24 @@ This comprehensive nature of the Store Sales built-in sample report and semantic
 
 
 
+## Project 3: Human Resource Report Dashboard
+
+Enhancing Recruitment Efficiency through a deep data analysis using this recruitment dashboard provides a comprehensive overview of key metrics and insights to optimize the recruitment process. These metrics enable recruitment managers and HR professionals to:
+
+- Monitor recruitment effectiveness
+- Identify areas for improvement
+- Make data-driven decisions to optimize the recruitment process
+
+
+By leveraging this dashboard, organizations can streamline their recruitment efforts, improve candidate quality, and enhance overall hiring efficienc.
+
+
+### [Preview](https://app.powerbi.com/groups/me/reports/1e46f76b-dd43-4331-9681-5a4f14641b1d/ReportSection80bfb94ebd631f9d7122?experience=power-bi)
+
+
+![hr people](https://github.com/mregaladog/PowerBI-Portfolio/assets/171528893/89cdd183-a2a8-48e1-9942-3f7ad91618f5)
+
+
 
 
 
